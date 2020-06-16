@@ -11,7 +11,7 @@ class MainClass {
             string sum = ("Sum= ");
             int s = (one + two);
 
-            string diff = ("Difference= ");
+            string diff = ("Diff= ");
             int d = (one - two);
 
             string prod = ("Product= ");
